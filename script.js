@@ -1,0 +1,2 @@
+<script type="text/javascript" language="javascript" src="http://www.rssdog.com/index.php?url=https%3A%2F%2Fwww.digitaltrends.com%2Fgaming%2Ffeed%2F&amp;mode=javascript&amp;showonly=&amp;maxitems=10&amp;showdescs=1&amp;desctrim=0&amp;descmax=0&amp;tabwidth=100%25&amp;showdate=1&amp;linktarget=_blank&amp;textsize=inherit&amp;bordercol=%239FF202&amp;headbgcol=%239FF202&amp;headtxtcol=%23ffffff&amp;titlebgcol=%239FF202&amp;titletxtcol=%23ffffff&amp;itembgcol=%231FFB0B&amp;itemtxtcol=%23A00C0C&amp;ctl=0">
+</script>
