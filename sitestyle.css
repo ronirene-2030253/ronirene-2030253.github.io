@@ -1,0 +1,16 @@
+.videoFrame{
+    width:100%:
+  }
+  
+  .videoFrame iframe{
+     margin: 0 auto;
+     display: block;
+     width: 560px;
+  }
+p{
+    align=center
+}
+#yeonjun{
+
+    text-align: left
+}
